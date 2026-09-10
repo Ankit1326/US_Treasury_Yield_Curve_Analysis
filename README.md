@@ -1,10 +1,10 @@
-# 📊 US Treasury Yield Curve Analysis
+#  US Treasury Yield Curve Analysis
 
 A data-driven project that analyzes the US Treasury Yield Curve using Python and FRED (Federal Reserve Economic Data). This project focuses on understanding interest rate movements, yield curve structures, and their implications on the economy and financial markets.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The US Treasury Yield Curve is one of the most important indicators in finance. This project:
 
@@ -15,7 +15,7 @@ The US Treasury Yield Curve is one of the most important indicators in finance. 
 
 ---
 
-## 📈 Key Features
+## Key Features
 
 - Data extraction from FRED API  
 - Time-series visualization of yields  
@@ -26,7 +26,7 @@ The US Treasury Yield Curve is one of the most important indicators in finance. 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python  
 - Pandas  
@@ -36,7 +36,7 @@ The US Treasury Yield Curve is one of the most important indicators in finance. 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 US-Treasury-Yield-Analysis/
 │
@@ -45,7 +45,7 @@ US-Treasury-Yield-Analysis/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 git clone https://github.com/your-username/us-treasury-yield-analysis.git  
@@ -65,7 +65,7 @@ fred = Fred(api_key='YOUR_API_KEY')
 
 ---
 
-## 📊 Analysis Performed
+##  Analysis Performed
 
 ### Yield Curve Visualization
 Comparison of yields across maturities (short-term to long-term)
@@ -84,7 +84,7 @@ Inverted Curve → Possible recession signal
 
 ---
 
-## 📉 Key Insights
+##  Key Insights
 
 - Yield curve inversion is a strong recession indicator  
 - Long-term vs short-term spread reflects market expectations  
@@ -93,7 +93,7 @@ Inverted Curve → Possible recession signal
 
 ---
 
-## 📊 Sample Outputs
+##  Sample Outputs
 
 The notebook includes:
 - Time series plots of treasury yields  
@@ -103,13 +103,13 @@ The notebook includes:
 
 ---
 
-## 🔑 Data Source
+##  Data Source
 
 Federal Reserve Economic Data (FRED)
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 
 - Financial market analysis  
 - Macroeconomic research  
@@ -118,7 +118,7 @@ Federal Reserve Economic Data (FRED)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome. You can:
 - Improve visualizations  
@@ -127,7 +127,7 @@ Contributions are welcome. You can:
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Ankit Singh  
 Feel free to connect for collaboration or queries  
